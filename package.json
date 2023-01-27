@@ -1,8 +1,8 @@
 {
-  "name": "spookyswap-sdk",
+  "name": "unicrap-fantom-sdk",
   "license": "MIT",
-  "version": "1.2.0",
-  "description": "🛠 An SDK for building applications on top of spookyswap.",
+  "version": "1.0.0",
+  "description": "🛠 An SDK for building applications on top of unicrap.",
   "main": "dist/index.js",
   "module": "dist/sdk.esm.js",
   "typings": "dist/index.d.ts",
@@ -10,7 +10,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/SpookySwap/SpookySwap-sdk.git",
+  "repository": "https://github.com/zerorekt/spookyswap-sdk.git",
   "keywords": [
     "spookyswap",
     "ethereum",
